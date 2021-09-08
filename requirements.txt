@@ -61,7 +61,7 @@ Twisted==21.2.0
 urllib3==1.25.11
 virtualenv==20.4.6
 virtualenv-clone==0.5.4
-virtualenvwrapper==4.8.4
+virtualenvwrapper==4.8.1
 w3lib==1.22.0
 wcwidth==0.2.5
 win-inet-pton==1.1.0
