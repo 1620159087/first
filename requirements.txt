@@ -58,7 +58,6 @@ stevedore==3.3.0
 tqdm==4.54.1
 traitlets==4.3.3
 Twisted==21.2.0
-twisted-iocpsupport==1.0.1
 urllib3==1.25.11
 virtualenv==20.4.6
 virtualenv-clone==0.5.4
