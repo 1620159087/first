@@ -52,7 +52,7 @@ queuelib==1.6.1
 requests==2.25.0
 Scrapy==2.5.0
 service-identity==21.1.0
-setuptools==51.0.0.post20201207
+setuptools==51.0.0
 six==1.15.0
 sqlparse==0.4.1
 stevedore==3.3.0
