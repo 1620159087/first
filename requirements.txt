@@ -87,5 +87,7 @@ win-inet-pton==1.1.0
 wincertstore==0.2
 yarg==0.1.9
 zipp==3.5.0
-pip install whoosh django-haystack jieba
+whoosh
+django-haystack
+jieba
 zope.interface==5.4.0
