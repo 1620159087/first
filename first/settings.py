@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-t^p)&nc6na8^m(tpd-i4uz_p+cw1$1r*0p&6bqqny7)%dduf3h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', ' localhost ', '.mxiao,xyz']
+ALLOWED_HOSTS = ['122.51.127.207', '127.0.0.1', ' localhost ', 'mxiao,xyz', '0.0.0.0']
 
 # Application definition
 
@@ -76,11 +76,11 @@ WSGI_APPLICATION = 'first.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  # 数据库引擎
-        'NAME': 'test',  # 数据库名称
+        'NAME': 'blog',  # 数据库名称
         'HOST': '127.0.0.1',  # 数据库地址，本机 ip 地址 127.0.0.1
         'PORT': 3306,  # 端口
         'USER': 'root',  # 数据库用户名
-        'PASSWORD': '123456',  # 数据库密码
+        'PASSWORD': 'Mxiao123456.',  # 数据库密码
     }
 }
 
